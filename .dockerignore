@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.md
+.env
+.env.example
+docker-compose.yml
+Dockerfile
+downloads/*
+!downloads/.gitkeep
+*.exe
+.qwen
